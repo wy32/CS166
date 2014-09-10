@@ -1,5 +1,5 @@
 /*
- * Template JAVA User Interface
+ * JAVA User Interface
  * =============================
  *
  * Database Management Systems
